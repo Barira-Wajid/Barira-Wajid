@@ -1,6 +1,9 @@
 # 👋 Hey, I'm Barira Wajid!
 
 ### 💻 Full-Stack Web Developer | Creative Designer | Lifelong Learner
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D7BFF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Creative+Designer;Building+Ideas+Into+Reality;Always+Learning+Something+New!" />
+</p>
 
 I love turning ideas into functional, creative, and responsive web applications. I'm continuously learning new technologies and building projects to improve my development skills.
 
@@ -66,7 +69,9 @@ Project and task management application with team collaboration and task restora
 ![Barira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barira-Wajid&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barira-Wajid&layout=compact&theme=tokyonight)
+## 🔥 GitHub Contribution Streak
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Barira-Wajid&theme=tokyonight)
 ---
 ## 🌐 Connect With Me
 
@@ -79,3 +84,7 @@ Project and task management application with team collaboration and task restora
 ### ✨ "Dream it. Build it. Improve it."
 
 Thanks for visiting my profile! ❤️
+
+## 👀 Profile Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=Barira-Wajid&color=blueviolet&style=for-the-badge)
